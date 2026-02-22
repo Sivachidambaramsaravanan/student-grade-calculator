@@ -1,0 +1,19 @@
+Test Case 1:
+Input: Marks = 95
+Expected Output: Grade A
+
+Test Case 2:
+Input: Marks = 85
+Expected Output: Grade B
+
+Test Case 3:
+Input: Marks = -10
+Expected Output: Invalid input message
+
+Test Case 4:
+Input: Marks = 105
+Expected Output: Invalid input message
+
+Test Case 5:
+Input: Marks = abc
+Expected Output: Error handled
